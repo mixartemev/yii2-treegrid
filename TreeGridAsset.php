@@ -22,7 +22,7 @@ class TreeGridAsset extends AssetBundle {
     ];
 
     public $depends = [
-        'yii\web\JqueryAsset'
+        'yii\grid\GridViewAsset'
     ];
 
 } 
